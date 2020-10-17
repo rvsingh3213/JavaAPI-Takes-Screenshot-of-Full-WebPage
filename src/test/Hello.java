@@ -57,7 +57,7 @@ public class Hello {
 		{System.out.println("Exception occ:"+e);}
 		
 		destroy();
-		return "";
+		return "<h1>Image Generated</h1>";
 		
 	}
 	
